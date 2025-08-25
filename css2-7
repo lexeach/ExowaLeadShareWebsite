@@ -1,0 +1,14 @@
+﻿@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/anonymouspro/v21/rP2Bp2a15UIB7Un-bOeISG3pLlw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/anonymouspro/v21/rP2cp2a15UIB7Un-bOeISG3pFuAT0Ck.ttf) format('truetype');
+}

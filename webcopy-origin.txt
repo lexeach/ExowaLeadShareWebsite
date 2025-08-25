@@ -1,0 +1,460 @@
+Uri: https://assets.flexifunnels.com/css/animate.min.css
+File Name: C:\Downloaded Web Sites\user.exowa.click\css\animate.min.css
+Content Type: text/css
+
+Uri: https://assets.flexifunnels.com/css/protected.css
+File Name: C:\Downloaded Web Sites\user.exowa.click\css\protected.css
+Content Type: text/css
+
+Uri: https://assets.flexifunnels.com/images/itrans.png
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\itrans.png
+Content Type: image/png
+
+Uri: https://assets.flexifunnels.com/js/ft-control.js
+File Name: C:\Downloaded Web Sites\user.exowa.click\js\ft-control.js
+Content Type: text/javascript
+
+Uri: https://assets.flexifunnels.com/js/ft-lazy-loading.js
+File Name: C:\Downloaded Web Sites\user.exowa.click\js\ft-lazy-loading.js
+Content Type: text/javascript
+
+Uri: https://assets.flexifunnels.com/js/generate_cookie.js
+File Name: C:\Downloaded Web Sites\user.exowa.click\js\generate_cookie.js
+Content Type: text/javascript
+
+Uri: https://user.exowa.click/ebook
+File Name: C:\Downloaded Web Sites\user.exowa.click\ebook.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\user.exowa.click\css2-7
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\user.exowa.click\css2-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\user.exowa.click\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\user.exowa.click\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\user.exowa.click\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\user.exowa.click\css2-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\user.exowa.click\css2-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap
+File Name: C:\Downloaded Web Sites\user.exowa.click\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/anonymouspro/v21/rP2Bp2a15UIB7Un-bOeISG3pLlw.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\anonymouspro\v21\rP2Bp2a15UIB7Un-bOeISG3pLlw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/anonymouspro/v21/rP2cp2a15UIB7Un-bOeISG3pFuAT0Ck.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\anonymouspro\v21\rP2cp2a15UIB7Un-bOeISG3pFuAT0Ck.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v36/0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\lora\v36\0QI6MX1D_JOuGQbT0gvTJPa787weuyJG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v36/0QI6MX1D_JOuGQbT0gvTJPa787wsuyJG.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\lora\v36\0QI6MX1D_JOuGQbT0gvTJPa787wsuyJG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v36/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\lora\v36\0QI6MX1D_JOuGQbT0gvTJPa787z5vCJG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v36/0QI6MX1D_JOuGQbT0gvTJPa787zAvCJG.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\lora\v36\0QI6MX1D_JOuGQbT0gvTJPa787zAvCJG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v43/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\opensans\v43\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v56/TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\oswald\v56\TK3_WkUHHAIjg75cFRf3bXL8LICs13FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v56/TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\oswald\v56\TK3_WkUHHAIjg75cFRf3bXL8LICs169vgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v56/TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\oswald\v56\TK3_WkUHHAIjg75cFRf3bXL8LICs18NvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v56/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\oswald\v56\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v56/TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\oswald\v56\TK3_WkUHHAIjg75cFRf3bXL8LICs1y9ogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v56/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\oswald\v56\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v23/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\poppins\v23\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpYCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao4CP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v36/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\raleway\v36\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoooCP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\sourcesanspro\v22\6xK3dSBYKcSV-LCoeQqfX1RYOo3aPw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rAkA.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i54rAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3i94_AkA.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3i94_AkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zAkA.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zAkA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\s\sourcesanspro\v22\6xKydSBYKcSV-LCoeQqfX1RYOo3iu4nAkA.ttf
+Content Type: font/ttf
+
+Uri: https://img.flexifunnels.com/images/14/cwmta_1200_image.png
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\14\cwmta_1200_image.png
+Content Type: image/png
+
+Uri: https://img.flexifunnels.com/images/16262/320/img10_k0nji_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img10_k0nji_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/320/img15_e3odk_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img15_e3odk_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/320/img16_i1njm_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img16_i1njm_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/320/img17_g0mze_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img17_g0mze_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/320/img18_uzmdq_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img18_uzmdq_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/320/img19_ewote_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img19_ewote_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/320/img6_iznta_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img6_iznta_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/320/img8_q0mju_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img8_q0mju_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/320/img9_gxnjg_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\320\img9_gxnjg_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img10_k0nji_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img10_k0nji_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img15_e3odk_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img15_e3odk_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img16_i1njm_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img16_i1njm_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img17_g0mze_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img17_g0mze_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img18_uzmdq_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img18_uzmdq_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img19_ewote_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img19_ewote_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img6_iznta_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img6_iznta_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img8_q0mju_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img8_q0mju_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/480/img9_gxnjg_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\480\img9_gxnjg_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/Dr_uyndm_852.MunishSharma17Copy1
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\Dr_uyndm_852.MunishSharma17Copy1
+Content Type: image/png
+
+Uri: https://img.flexifunnels.com/images/16262/img10_k0nji_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img10_k0nji_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/img15_e3odk_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img15_e3odk_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/img16_i1njm_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img16_i1njm_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/img17_g0mze_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img17_g0mze_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/img18_uzmdq_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img18_uzmdq_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/img19_ewote_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img19_ewote_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/img6_iznta_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img6_iznta_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/img8_q0mju_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img8_q0mju_600.jpg
+Content Type: image/jpeg
+
+Uri: https://img.flexifunnels.com/images/16262/img9_gxnjg_600.jpg
+File Name: C:\Downloaded Web Sites\user.exowa.click\images\16262\img9_gxnjg_600.jpg
+Content Type: image/jpeg
+
+Uri: https://plugin.flexifunnels.com/fontawesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://plugin.flexifunnels.com/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\user.exowa.click\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://plugin.flexifunnels.com/js/jquerylatest.min.js
+File Name: C:\Downloaded Web Sites\user.exowa.click\js\jquerylatest.min.js
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=1324120562066816&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\user.exowa.click\tr
+Content Type: text/plain
+
